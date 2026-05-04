@@ -1,18 +1,21 @@
-# Dignity Net — Full Stack
+# Dignity Net
 
-Canonical releases of the Dignity Net system.
+Dignity Net is a conduct-layer framework for human-AI interaction. It is designed to reduce subtle interaction harms such as overfill, premature closure, pressure escalation, and style overwrite by governing how a system meets the user, not only what it outputs. This repository contains current public Dignity Net materials, including the core framework and related white papers.
 
 ## Current Version
 v1.1 — April 7, 2026
 
 ## Files
 - DN-FullStack_v1.1_2026-04-07.pdf
-- DN-FullStack_v1.0_2026-02-19.pdf
+- Stabilizing_Human_Coherence_Interaction_Layer_White_Paper_v0.5_2026-05-03.md
+
+## Current White Paper
+- *Stabilizing Human Coherence Without Model Retraining*
+- Current public draft: `Stabilizing_Human_Coherence_Interaction_Layer_White_Paper_v0.5_2026-05-03.md`
+- Focus: the interaction layer as a tractable design domain for human-AI exchange, with Dignity Net as the primary evidence object
 
 ## What This Is
-Dignity Net is a constraint-based behavioral governance layer for human–AI interaction.
-
-It is a full-stack system:
+Dignity Net is organized as a full-stack framework:
 - Ontology
 - Ethics
 - Diagnostic
