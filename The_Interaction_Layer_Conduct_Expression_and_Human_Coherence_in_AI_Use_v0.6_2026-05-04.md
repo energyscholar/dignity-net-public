@@ -1,11 +1,6 @@
-# Stabilizing Human Coherence Without Model Retraining
+# The Interaction Layer
 
-## What Can Be Changed Now at the Interaction Layer
-
-**Date:** May 3, 2026  
-**Status:** Active working draft  
-**Audience:** Technically literate readers, AI practitioners, and research-adjacent collaborators who are willing to take lived interaction seriously as design evidence  
-**Purpose:** Establish the interaction layer as a design domain between model weights and output evaluation. Dignity Net serves as the primary evidence that this layer is tractable now.
+## Conduct, Expression, and Human Coherence in AI Use
 
 ## 1. The Interaction Problem
 
@@ -61,7 +56,7 @@ This matters because a system can change meaningfully at this layer without chan
 
 The interaction layer is a third surface -- tractable today, requiring no model access, and capable of changing the lived quality of exchange.
 
-The interaction layer described here is not treated as an invention, but as a tractable surface within human-AI exchange that can be named and worked on directly. Related work by Robin Maycomber also operates within this domain, with particular emphasis on the pre-interaction structuring of admissibility, scope, and role as the human enters the exchange. The present paper focuses on Dignity Net as evidence that governance of interaction is possible within this domain.
+The interaction layer described here is not treated as an invention, but as a tractable surface within human-AI exchange that can be named and worked on directly. Related work by Robin Macomber also operates within this domain, with particular emphasis on admissibility, scope, and role as the human enters the exchange. The present paper focuses on Dignity Net as evidence that governance of interaction is possible within this domain.
 
 ### Contribution 2: Conduct and expression are separable
 
@@ -104,6 +99,8 @@ A more formal comparative prompt test was then conducted by the author across se
 Subsequent revisions separated conduct and expression more explicitly into distinct layers. Initial observations suggest that this separation preserves governance benefits while reducing stylistic overwrite, though formal comparison across fallback and user-aligned expression conditions remains in progress.
 
 The grounding practices described in Section 5 -- pen-and-paper anchoring, pacing breaks, pre-prompt intention-setting -- also emerged from documented interaction rather than from design. They were discovered as stabilizing behaviors before they were named or recommended.
+
+The current testing is small. But the interaction-layer claim and the conduct/expression distinction had to be articulated clearly before larger-scale testing could be designed. This paper is not meant to substitute for that later empirical work. It is meant to define the object of study well enough for that work to begin.
 
 ## 5. Human Grounding
 

@@ -7,11 +7,12 @@ v1.1 — April 7, 2026
 
 ## Files
 - DN-FullStack_v1.1_2026-04-07.pdf
-- Stabilizing_Human_Coherence_Interaction_Layer_White_Paper_v0.5_2026-05-03.md
+- The_Interaction_Layer_Conduct_Expression_and_Human_Coherence_in_AI_Use_v0.6_2026-05-04.md
 
 ## Current White Paper
-- *Stabilizing Human Coherence Without Model Retraining*
-- Current public draft: `Stabilizing_Human_Coherence_Interaction_Layer_White_Paper_v0.5_2026-05-03.md`
+- *The Interaction Layer*
+- Subtitle: *Conduct, Expression, and Human Coherence in AI Use*
+- Current public draft: `The_Interaction_Layer_Conduct_Expression_and_Human_Coherence_in_AI_Use_v0.6_2026-05-04.md`
 - Focus: the interaction layer as a tractable design domain for human-AI exchange, with Dignity Net as the primary evidence object
 
 ## What This Is
