@@ -15,6 +15,9 @@ v1.1 — April 7, 2026
 - Current public draft: `The_Interaction_Layer_Conduct_Expression_and_Human_Coherence_in_AI_Use_v0.6_2026-05-04.md`
 - Focus: the interaction layer as a tractable design domain for human-AI exchange, with Dignity Net as the primary evidence object
 
+## Contact
+- hello@dignityfield.org
+
 ## What This Is
 Dignity Net is organized as a full-stack framework:
 - Ontology
