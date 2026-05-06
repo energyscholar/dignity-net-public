@@ -17,6 +17,7 @@ v1.1 — April 7, 2026
 
 ## Contact
 - hello@dignityfield.org
+- I’m actively looking for feedback, especially from people who copy Dignity Net into an LLM and notice what changes.
 
 ## What This Is
 Dignity Net is organized as a full-stack framework:
