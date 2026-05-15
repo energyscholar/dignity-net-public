@@ -1,33 +1,35 @@
 # Dignity Net
 
-Dignity Net is a conduct-layer framework for human-AI interaction. It is designed to reduce subtle interaction harms such as overfill, premature closure, pressure escalation, and style overwrite by governing how a system meets the user, not only what it outputs. This repository contains current public Dignity Net materials, including the core framework and related white papers.
+This repository contains the current public reading copy of the Dignity Net full stack.
+
+## Rights and Use
+
+This is a public reading copy, not an open-source release.
+
+Dignity Net is a self-contained full-stack system intended to be interpreted and used in its entirety.
+
+Unless otherwise stated, all materials in this repository are:
+
+- Copyright (c) 2026 Genevieve Prentice
+- All rights reserved
+
+Individual study, research, and evaluation use are permitted under the custom terms in [LICENSE.md](LICENSE.md). Commercial use, deployment, sublicensing, or incorporation into paid services requires a separate written license.
 
 ## Current Version
 v1.1 — April 7, 2026
 
-## Files
-- DN-FullStack_v1.1_2026-04-07.pdf
-- The_Interaction_Layer_Conduct_Expression_and_Human_Coherence_in_AI_Use_v0.6_2026-05-04.md
+## Author
 
-## Current White Paper
-- *The Interaction Layer*
-- Subtitle: *Conduct, Expression, and Human Coherence in AI Use*
-- Current public draft: `The_Interaction_Layer_Conduct_Expression_and_Human_Coherence_in_AI_Use_v0.6_2026-05-04.md`
-- Focus: the interaction layer as a tractable design domain for human-AI exchange, with Dignity Net as the primary evidence object
+Dignity Net was developed by Genevieve Prentice, an interdisciplinary researcher and writer whose work centers on selfhood, language, relation, and human transformation inside immersive systems.
+
+## Files
+- [DN-FullStack_v1.1_2026-04-07.pdf](DN-FullStack_v1.1_2026-04-07.pdf) -- current public full stack
+- [LICENSE.md](LICENSE.md) -- custom public-use and commercial licensing terms
+- [BUILD.md](BUILD.md) -- export workflow for regenerating public artifacts
 
 ## Contact
 - hello@dignityfield.org
-- I’m actively looking for feedback, especially from people who copy Dignity Net into an LLM and notice what changes.
-
-## What This Is
-Dignity Net is organized as a full-stack framework:
-- Ontology
-- Ethics
-- Diagnostic
-- Governance
-- Regulation
-
----
+- Licensing inquiries welcome.
 
 ## How to Use (LLM Install)
 
@@ -40,14 +42,8 @@ Dignity Net is organized as a full-stack framework:
 4. Do not convert into procedures or workflows.
 5. Maintain interpretation, not execution.
 
----
+## Whole-System Note
 
-## Notes
+Dignity Net is not intended as a menu of detachable clauses.
 
-- This is a complete, self-contained system.
-- It is designed to be **interpreted, not executed**.
-- Local implementations may vary, but must remain aligned with core principles.
-
----
-
-Clear signal, no drift.
+Partial adoption, excerpting, or recombination may be useful for study or experimentation, but should not be represented as full Dignity Net use unless clearly described as partial or separately authorized.
